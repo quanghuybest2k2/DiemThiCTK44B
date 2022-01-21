@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Window Form\\DiemThiCTK44B-\\DiemThiCTK44B.csproj": {}
+    "D:\\GitHub\\DiemThiCTK44B\\DiemThiCTK44B.csproj": {}
   },
   "projects": {
-    "D:\\Window Form\\DiemThiCTK44B-\\DiemThiCTK44B.csproj": {
+    "D:\\GitHub\\DiemThiCTK44B\\DiemThiCTK44B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Window Form\\DiemThiCTK44B-\\DiemThiCTK44B.csproj",
+        "projectUniqueName": "D:\\GitHub\\DiemThiCTK44B\\DiemThiCTK44B.csproj",
         "projectName": "DiemThiCTK44B",
-        "projectPath": "D:\\Window Form\\DiemThiCTK44B-\\DiemThiCTK44B.csproj",
+        "projectPath": "D:\\GitHub\\DiemThiCTK44B\\DiemThiCTK44B.csproj",
         "packagesPath": "C:\\Users\\quang\\.nuget\\packages\\",
-        "outputPath": "D:\\Window Form\\DiemThiCTK44B-\\obj\\",
+        "outputPath": "D:\\GitHub\\DiemThiCTK44B\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\quang\\AppData\\Roaming\\NuGet\\NuGet.Config",
