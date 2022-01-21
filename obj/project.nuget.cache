@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NaX3O3x6f0ftn4StBx0OVmlZ7jxl9jlNVpQba39e9J5rGo7NiWnqmT7VYd720VhNlT5BS4w3DEet/M9CUrLNXw==",
+  "dgSpecHash": "PdHqCxWCfSznqCbwD7JYeXqowtrdjAMEsB3Umza694X72oMEi8ySqSA+ZWWiBe5B1FRSvf95zcdZd/qwL9s1vQ==",
   "success": true,
-  "projectFilePath": "D:\\Window Form\\DiemThiCTK44B\\DiemThiCTK44B.csproj",
+  "projectFilePath": "D:\\Window Form\\DiemThiCTK44B-\\DiemThiCTK44B.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quang\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\quang\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
