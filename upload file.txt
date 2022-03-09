@@ -1,5 +1,5 @@
 B1: Tạo thư mục trong github
-B2: Vào thư mục Github trong ổ D chọn gitbash here (chọn đường dẫn)//// git clone [đường dẫn trên github]
-B3: - Dán tất cả file trong thư mục vừa tạo và chọn gitbash here (chọn đường dẫn), cd [...] sau đó gõ git add .
-    - gỉt commit -m "mô tả"
+B2: Vào thư mục Github trong ổ D chọn gitbash here (chọn đường dẫn)////git init và git clone [đường dẫn trên github]
+B3: + Dán tất cả file trong thư mục vừa tạo và chọn gitbash here (chọn đường dẫn), cd [...] sau đó gõ git add .
+    + gỉt commit -m "mô tả"
 B4: git push
